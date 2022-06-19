@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dewanshparashar
-- 👀 I’m interested in Web Development and blockchain (JS, ReactJs, AngularJs, Performance, Web3, DApps)
-- 🌱 I’m currently learning NodeJs, NextJs, ReactNative and other fun stuff!
+- 👋 Hi, I’m @dewanshparashar. For more information, check out my [website](https://www.dewansh.xyz/)
+- 👀 I’m interested in Web Development and blockchain (JS, ReactJs, Performance, Web3, DApps)
 - 💞️ I can collaborate on any interesting side project involving web application.
-- 📫 You can react out to me via twitter @dewanshparashar or e-mail @ dewanshparashar@gmail.com
+- 📫 You can reach out to me via twitter @dewanshparashar or e-mail @ dewanshparashar@gmail.com
 
 
 <!---
